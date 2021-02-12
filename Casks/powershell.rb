@@ -1,6 +1,6 @@
 cask "powershell" do
-  version "7.1.1"
-  sha256 "d455dfb13b7a168520110379199ebbf3f5fd962e51feb14ca0e74474f44f26da"
+  version "7.1.2"
+  sha256 "a3b664487fb2906abf52442b5e620df3cf1fce8aff82c81679923c66097272c2"
 
   url "https://github.com/PowerShell/PowerShell/releases/download/v#{version}/powershell-#{version}-osx-x64.pkg"
   name "PowerShell"
